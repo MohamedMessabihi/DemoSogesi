@@ -37,6 +37,8 @@ mqdlkjlskdjf
 
 class purchase_order1(osv.osv):
 	
+	def addition (x, y):
+		return x+y
 
 	def wkf_confirm_order(self,cr,uid,ids,context=None):
 		
