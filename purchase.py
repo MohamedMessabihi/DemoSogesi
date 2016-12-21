@@ -38,7 +38,8 @@ mqdlkjlskdjf
 class purchase_order1(osv.osv):
 	
 	def addition (x, y):
-		return x+y
+		return x+y #ce cie est un commentaire
+		
 
 	def wkf_confirm_order(self,cr,uid,ids,context=None):
 		
