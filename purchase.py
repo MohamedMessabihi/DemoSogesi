@@ -31,6 +31,10 @@ calc returne x*y;
 
 mqdlkjlskdjf
 
+
+# ceci est une modif de pc dz
+
+
 class purchase_order1(osv.osv):
 	
 
